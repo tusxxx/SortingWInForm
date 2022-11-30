@@ -1,0 +1,10 @@
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\bin\Debug\SortingWInForm.exe.config
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\bin\Debug\SortingWInForm.exe
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\bin\Debug\SortingWInForm.pdb
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\obj\Debug\SortingWInForm.csproj.AssemblyReference.cache
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\obj\Debug\SortingWInForm.Properties.Resources.resources
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\obj\Debug\SortingWInForm.csproj.GenerateResource.cache
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\obj\Debug\SortingWInForm.csproj.CoreCompileInputs.cache
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\obj\Debug\SortingWInForm.exe
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\obj\Debug\SortingWInForm.pdb
+C:\Users\tus\RiderProjects\SortingWInForm\SortingWInForm\obj\Debug\SortingWInForm.Form1.resources
